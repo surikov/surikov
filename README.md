@@ -1,7 +1,6 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surikov&layout=compact)]
 
 ![Surikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=surikov&show_icons=true&theme=radical)
-
 
 <!--
 **surikov/surikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
